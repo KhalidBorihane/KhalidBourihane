@@ -12,4 +12,4 @@ Skills: REACT / JS / HTML / CSS / PHP / MYSQL / BOOTSTRAP / C# / SQL SERVER
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/khalidbourihane)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/khalidbourihane/)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhalidBourihane)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhalidBourihane)](https://github.com/anuraghazra/github-readme-stats)-->
