@@ -3,7 +3,7 @@
 #### I am Full Stack Developer 
 ![I am Full Stack Developer ](https://i.ibb.co/WGQ3x99/Github-banner-without-my-image.png)
 
-My name is KHALID BOURIHANE Im from Morocco . im A talented full stack developer with more than 3 years of experience with diffrent types of clients and companies, i have created more than 50 websites and 40 web applications besides my work on platforms like spotify and wordpress , im a creative deciplened and a social person that gives me the abillity to adapte quickly with others , i really enjoy doing my job and im always looking to learn and develop myself.
+My name is KHALID BOURIHANE I'm from Morocco . I'm A talented full stack developer with more than 3 years of experience with different types of clients and companies, I have created more than 50 websites and 40 web applications besides my work on platforms like Spotify and WordPress , I'm a creative disciplined and a social person that gives me the ability to adapt quickly with others , I really enjoy doing my job and I'm always looking to learn and develop myself.
 
 ## Skills & Experiences 
 * ❄ React
